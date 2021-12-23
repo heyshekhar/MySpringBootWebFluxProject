@@ -1,7 +1,5 @@
 package com.spring.dto;
 
-import javafx.util.Pair;
-
 //import org.apache.commons.math3.util.Pair;
 
 
